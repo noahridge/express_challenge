@@ -11,7 +11,7 @@ Test this using insomina, no HTML is needed.
 JSON on the left should appear in  ```/db/db.json``` upon post request. Server should send response indicating post request recieved
 
 
-![Alt text](../../../E:/repos/express_challenge/insomina.PNG)
+![Alt text](/insomina.PNG)
 
 Example of db.json
 ```json
